@@ -281,7 +281,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', end
     .fourth-div {
         
         max-height: 434px;
-        background: url(../Img/Fo-group-3-min.png) no-repeat center center;
+        background: url(../img/Fo-group-3-min.png) no-repeat center center;
         background-size: cover
     }
 
@@ -345,7 +345,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', end
 
     .sixth {
         position: relative;
-        background: url(../Img/sixth-bg-min.png) no-repeat center center;
+        background: url(../img/sixth-bg-min.png) no-repeat center center;
         background-size: cover;
     }
 
