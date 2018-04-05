@@ -187,6 +187,13 @@
         
 }
 
+
+button, 
+button:active, 
+button:focus {
+    outline: none;
+}
+
     .s-btn {
         cursor: pointer;
         padding: 16px 22px;
