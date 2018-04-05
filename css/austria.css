@@ -271,6 +271,7 @@
     }
 
     .fourth-div:hover {
+        cursor: pointer;
         background-image: -webkit-gradient(linear, left top, right top, from(rgba(46, 186, 238, 1)), to(rgba(46, 186, 238, 1))), url(../img/Fo-group-3-min.png);
         background-image: linear-gradient(to right, rgba(46, 186, 238, 1) 0%, rgba(46, 186, 238, 1) 100%), url(../img/Fo-group-3-min.png);
         background-blend-mode: screen;
